@@ -18,7 +18,7 @@ export const Switch = () => {
           case 200:
             return json;
           case 400:
-            throw new Error("Bad request, please try late");
+            throw new Error("Bad request, please try later");
         }
       } catch (e) {
         console.log(e);
