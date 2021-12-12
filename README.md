@@ -1,4 +1,4 @@
-# Basic React Context example written in ES6 and TypeScript
+# Basic React Context example / TypeScript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
